@@ -1,50 +1,28 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+FocusTime - A Pomodoro Timer for Enhanced Focus and Productivity
 
-## Get started
+FocusTime is a simple yet powerful Pomodoro timer app designed to help you stay focused and boost your productivity. Utilizing the Pomodoro Technique, FocusTime breaks your work into manageable intervals (usually 25 minutes), separated by short breaks, helping you maintain concentration and avoid burnout.
 
-1. Install dependencies
+Features
 
-   ```bash
-   npm install
-   ```
+Customizable Timers: Set your preferred work and break durations to fit your workflow.
+Task Management: Keep track of tasks to be completed during each Pomodoro session.
+User-Friendly Interface: Clean and intuitive design for a seamless user experience.
+Dark Mode: Reduce eye strain and stay productive even in low-light environments.
+Screenshots
 
-2. Start the app
 
-   ```bash
-    npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
 
-When you're ready, run:
+Usage
 
-```bash
-npm run reset-project
-```
+Launch the app on your device.
+Set your desired work and break intervals.
+Start the timer and focus on your task until the timer rings.
+Take a short break and repeat the cycle.
+Use the long break after completing a set of Pomodoro intervals.
+Contributing
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
